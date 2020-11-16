@@ -14,7 +14,7 @@ You can also install this package from PyPI using
 
 # Documentation
 
-The spaCy project is maintained by @rajkpalani 
+The powertamil project is maintained by @rajkpalani 
 
 # Features
 
