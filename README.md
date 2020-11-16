@@ -11,3 +11,14 @@ The Powertamil NLP code is written in Python and licensed under the MIT Public L
 
 You can also install this package from PyPI using 
 >pip install powertamil
+
+# Documentation
+
+The spaCy project is maintained by @rajkpalani 
+
+# Features
+
+Coming soon....!
+
+
+
