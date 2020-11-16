@@ -1,2 +1,6 @@
 # powertamil
-A Tamil NLP Library
+A Python suite of Tamil NLP tools.
+
+
+
+
