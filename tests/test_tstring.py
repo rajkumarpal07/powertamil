@@ -24,6 +24,11 @@ def test_replace():# அக்டோபர்பார்ன்ராஜ்க�
     assert(output1 == expected1)
 
 def test_compare_lexicaly():
-    pass
-    
-    
+    result = tstring.compare_lexicaly('அப்பா', 'அம்மா')
+    assert(result < 0)
+
+    result = tstring.compare_lexicaly('அம்மா', 'அப்பா')
+    assert(result > 0)
+
+    result = tstring.compare_lexicaly('அம்மா', 'அம்மா')
+    assert(result == 0)

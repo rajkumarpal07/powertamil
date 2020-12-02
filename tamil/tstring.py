@@ -2,6 +2,7 @@
 # (C) 2001 - 2020 Rajkumar Palani <rajkumarpalani07@gmail.com>
 
 from .tcharacter import TChar
+from .tace16 import Tace16
 from . import tcutil
 
 
@@ -38,21 +39,25 @@ def replace(ts1:str, oldtc:str, newtc:str) -> str:
         return u"".join(tlist)
 
 
-#TODO: test properly
+
 def compare_lexicaly(tstr1:str, tstr2:str) -> int:
     # -ve :: if tstr1 < tstr2
     # 0 :: if tstr1 == tstr2
     # +ve :: if tstr1 > tstr2
     if ((tcutil.is_tamilonly(tstr1)) and (tcutil.is_tamilonly(tstr2))):
-        len1 = len(tstr1)
-        len2 = len(tstr2)
+        
+        tace1 = Tace16._to_tace16(tstr1)
+        tace2 = Tace16._to_tace16(tstr2)
+
+        len1 = len(tace1)
+        len2 = len(tace2)
 
         pos1 = 0
         pos2 = 0
 
         for i in range(min(len1, len2)):
-            tc1 = tstr1[i]
-            tc2 = tstr2[i]
+            tc1 = tace1[i]
+            tc2 = tace2[i]
 
             pos1 = ord(tc1)
             pos2 = ord(tc2)
