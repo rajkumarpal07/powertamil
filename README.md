@@ -17,8 +17,11 @@ You can also install this package from PyPI using
 The powertamil project is maintained by @rajkpalani 
 
 # Features
+1. Processing of Tamil letters and Tamil strings.
+2. Conversion of UTF8 tamil to Tace16 tamil.
+3. Lexicographic sorting of tamil words.
 
-Coming soon....!
+More Features coming soon....!
 
 
 # License
