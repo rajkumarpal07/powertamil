@@ -23,6 +23,11 @@ The powertamil project is maintained by @rajkpalani
 
 More Features coming soon....!
 
+# Key Goals of Powertamil
+1. Provide a clear, standard API for NLP processing and analysis in Python
+2. Provide a foundation library for other projects
+3. Enable high performance and scalable NLP processing
+4. Work with big data platforms such as Apache Spark or Hadoop
 
 # License
 
