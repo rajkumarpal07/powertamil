@@ -14,7 +14,17 @@ You can also install this package from PyPI using
 
 # Documentation
 
-The powertamil project is maintained by @rajkpalani 
+A list of methods and their purpose is given below.
+
+| Method                 | Meaning                                                                              |
+| ---------------------- | ------------------------------------------------------------------------------------ |
+| is_vowel_marker        | Checks for presence of Vowel marker                                                  |
+
+
+
+
+
+
 
 # Features
 1. Processing of Tamil letters and Tamil strings.
