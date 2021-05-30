@@ -18,18 +18,18 @@ A list of methods and their purpose is given below.
 
 **TChar** has the following methods. The class represents a Tamil character. 
 
-| Method          		| Meaning                                    							                |
-| --------------------| ----------------------------------------------------------------------- |
-| is_vowel_marker 		| Checks for presence of Vowel marker        							                |
-| is_agaram       		| Checks for presence of Agaram              							                |
-| is_uyir         		| Checks for presence of Uyir                							                |
-| is_mei          		| Checks for presence of Mei                 							                |
-| is_uyirmei      		| Checks for presence of Uyir Mei            							                |
-| is_aytham       		| Checks for presence of Aytham              							                |
-| is_tnumeral     		| Checks if the given Code Point is an Tamil numeral. 				            | 
-| is_tsymbol			    | Checks if the given Code Point is an Tamil symbol.	 		                |
-| is_grantha_agaram		| Checks if the given Code Point is an grantha agaram.					          |
-| is_grantha_uyirmei	| Checks for the presence of Grantha Uyir Mei. 							              |
+| Method          		| Meaning                                    							                 |
+| --------------------| -----------------------------------------------------------------------  |
+| is_vowel_marker 		| Checks for presence of Vowel marker.        							               |
+| is_agaram       		| Checks for presence of Agaram.             							                 |
+| is_uyir         		| Checks for presence of Uyir.               							                 | 
+| is_mei          		| Checks for presence of Mei.                 							               |
+| is_uyirmei      		| Checks for presence of Uyir Mei.            							               |
+| is_aytham       		| Checks for presence of Aytham.              							               |
+| is_tnumeral     		| Checks if the given Code Point is an Tamil numeral. 				             | 
+| is_tsymbol			    | Checks if the given Code Point is an Tamil symbol.	 		                 |
+| is_grantha_agaram		| Checks if the given Code Point is an grantha agaram.					           |
+| is_grantha_uyirmei	| Checks for the presence of Grantha Uyir Mei. 							               |
 | is_all_grantha_uyirmei| Checks for the presence of all Grantha Uyir Mei(including kshaUyirMei).|
 | is_ksha_uyirmei		  | Checks for KshaUyirMei Tamil letters.									                   |
 | is_sri 				      | Checks for presence of Sri Character.									                   |
