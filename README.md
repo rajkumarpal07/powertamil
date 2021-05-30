@@ -46,9 +46,9 @@ A list of methods and their purpose is given below.
 | Method          		| Meaning                                    				    |
 | ------------------- | ---------------------------------------------------   |
 | reverse  		        |  Reverse a Tamil word.  								              |
-| length  		        |  Get the tamil string length.  						            |
-| substring 		      |  Substring for a tamil string.  						          |
-| replace  		        |  Replace a tamil grapheme with a new grapheme. 		    |
+| length  		        |  Get the Tamil string length.  						            |
+| substring 		      |  Substring for a Tamil string.  						          |
+| replace  		        |  Replace a Tamil grapheme with a new grapheme. 		    |
 | tace_sort_key  		  |  Sort as per TACE order.  						                |
 
 # Features
@@ -66,4 +66,4 @@ More Features coming soon....!
 
 # License
 
-powertamil is MIT-licensed.
+Powertamil is MIT-licensed.
