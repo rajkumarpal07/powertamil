@@ -16,7 +16,7 @@ You can also install this package from PyPI using
 
 A list of methods and their purpose is given below.
 
-**tcharacter** has the following methods. The class represents a Tamil character. 
+**TChar** has the following methods. The class represents a Tamil character. 
 
 | Method          		| Meaning                                    							                |
 | --------------------| ----------------------------------------------------------------------- |
