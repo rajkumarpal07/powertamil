@@ -41,6 +41,15 @@ A list of methods and their purpose is given below.
 | get_graphemes  		  | Iterate on code points one by one and return graphemes.				           |
 
 
+**tstring** has the following methods. 
+
+| Method          		| Meaning                                    				    |
+| ------------------- | ---------------------------------------------------   |
+| reverse  		        |  Reverse a Tamil word.  								              |
+| length  		        |  get the tamil string length.  						            |
+| substring 		      |  substring for a tamil string.  						          |
+| replace  		        |  Replace a tamil grapheme with a new grapheme. 		    |
+| tace_sort_key  		  |  sort key as per tace order.  						            |
 
 # Features
 1. Processing of Tamil letters and Tamil strings.
