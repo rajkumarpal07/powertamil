@@ -6,7 +6,7 @@ A Python suite of Tamil NLP tools.
 Powertamil NLP provides a set of natural language analysis tools written in Python. It can take raw human language tamil text input and give the base forms of words, their parts of speech,...etc.
 
 
-The Powertamil NLP code is written in Python and licensed under the MIT Public License.
+The Powertamil NLP code is written in Python 3 and licensed under the MIT Public License.
 
 
 You can also install this package from PyPI using 
