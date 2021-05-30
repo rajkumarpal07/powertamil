@@ -16,9 +16,14 @@ You can also install this package from PyPI using
 
 A list of methods and their purpose is given below.
 
-| Method                 | Meaning                                                                              |
-| ---------------------- | ------------------------------------------------------------------------------------ |
-| is_vowel_marker        | Checks for presence of Vowel marker                                                  |
+| Method          | Meaning                                    |
+| ----------      | ------------------------------------------ |
+| is_vowel_marker | Checks for presence of Vowel marker        |
+| is_agaram       | Checks for presence of Agaram              |
+| is_uyir         | Checks for presence of Uyir                |
+| is_mei          | Checks for presence of Mei                 |
+| is_uyirmei      | Checks for presence of Uyir Mei            |
+| is_aytham       | Checks for presence of Aytham              |
 
 
 
