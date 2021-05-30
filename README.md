@@ -46,10 +46,10 @@ A list of methods and their purpose is given below.
 | Method          		| Meaning                                    				    |
 | ------------------- | ---------------------------------------------------   |
 | reverse  		        |  Reverse a Tamil word.  								              |
-| length  		        |  get the tamil string length.  						            |
-| substring 		      |  substring for a tamil string.  						          |
+| length  		        |  Get the tamil string length.  						            |
+| substring 		      |  Substring for a tamil string.  						          |
 | replace  		        |  Replace a tamil grapheme with a new grapheme. 		    |
-| tace_sort_key  		  |  sort key as per tace order.  						            |
+| tace_sort_key  		  |  Sort as per TACE order.  						                |
 
 # Features
 1. Processing of Tamil letters and Tamil strings.
